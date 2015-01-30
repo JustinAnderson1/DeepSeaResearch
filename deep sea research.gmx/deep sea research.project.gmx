@@ -10,8 +10,7 @@
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\BLUE_FISH</sprite>
     <sprite>sprites\green_fish</sprite>
-    <sprite>sprites\sprite4</sprite>
-    <sprite>sprites\sprite_7</sprite>
+    <sprite>sprites\SubMan</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
